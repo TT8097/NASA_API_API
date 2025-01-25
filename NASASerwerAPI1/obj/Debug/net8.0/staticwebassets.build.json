@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gBcyrQgfafgUPUboyJlVnSIr11KtQTXEyZWO3GiX/Ms=",
+  "Source": "NASASerwerAPI",
+  "BasePath": "_content/NASASerwerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

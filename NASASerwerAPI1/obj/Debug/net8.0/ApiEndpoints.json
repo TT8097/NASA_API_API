@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.apod",
+    "Method": "GetInfoAndPhotoOfTheDay",
+    "RelativePath": "api/apod/GetInfoAndPhotoOfTheDay",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.osdr",
+    "Method": "GetMissionDetails",
+    "RelativePath": "api/osdr/GetMissionDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NASASerwerAPI.Models.OsdrRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.osdr",
+    "Method": "GetVehicle",
+    "RelativePath": "api/osdr/GetVehicle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NASASerwerAPI.Models.OsdrRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.osdr",
+    "Method": "GetVehicles",
+    "RelativePath": "api/osdr/GetVehicles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.satellite",
+    "Method": "GetInfoAboutSatellite",
+    "RelativePath": "api/satellite/GetInfoAboutSatellite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NASASerwerAPI.Models.SatelliteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.satellite",
+    "Method": "GetSatelliteNames",
+    "RelativePath": "api/satellite/GetSatelliteNames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.system",
+    "Method": "GetSysInfo",
+    "RelativePath": "api/system/GetSysInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NASASerwerAPI.Controllers.system",
+    "Method": "IsNASAServiceAvaliable",
+    "RelativePath": "api/system/IsNASAServiceAvaliable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\appsettings.json
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.exe
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.deps.json
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.runtimeconfig.json
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.pdb
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.AssemblyReference.cache
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfoInputs.cache
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfo.cs
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.CoreCompileInputs.cache
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NASASerwerAPI.props
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NASASerwerAPI.props
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NASASerwerAPI.props
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\scopedcss\bundle\NASASerwerAPI.styles.css
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerw.933F7A1B.Up2Date
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.dll
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\refint\NASASerwerAPI.dll
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.pdb
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.genruntimeconfig.cache
+D:\.net rozwiazania\NASASerwerAPI\obj\Debug\net8.0\ref\NASASerwerAPI.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.net rozwiazania\NASASerwerAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.staticwebassets.endpoints.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.exe
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.deps.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.runtimeconfig.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.AssemblyReference.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfoInputs.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfo.cs
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.CoreCompileInputs.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\scopedcss\bundle\NASASerwerAPI.styles.css
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerw.933F7A1B.Up2Date
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\refint\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.genruntimeconfig.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI\obj\Debug\net8.0\ref\NASASerwerAPI.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.exe
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.deps.json
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.runtimeconfig.json
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\supef\Downloads\NASASerwerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.AssemblyReference.cache
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfoInputs.cache
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfo.cs
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.csproj.CoreCompileInputs.cache
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NASASerwerAPI.props
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NASASerwerAPI.props
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NASASerwerAPI.props
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\scopedcss\bundle\NASASerwerAPI.styles.css
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerw.933F7A1B.Up2Date
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\refint\NASASerwerAPI.dll
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\NASASerwerAPI.genruntimeconfig.cache
+C:\Users\supef\Downloads\NASASerwerAPI\obj\Debug\net8.0\ref\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\appsettings.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.staticwebassets.endpoints.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.exe
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.deps.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.runtimeconfig.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.csproj.AssemblyReference.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfoInputs.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.AssemblyInfo.cs
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.csproj.CoreCompileInputs.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\scopedcss\bundle\NASASerwerAPI.styles.css
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets\msbuild.NASASerwerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets\msbuild.build.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NASASerwerAPI.props
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerw.933F7A1B.Up2Date
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\refint\NASASerwerAPI.dll
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.pdb
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\NASASerwerAPI.genruntimeconfig.cache
+C:\Users\parob\Desktop\projekt_dotnet\NASASerwerAPI1\obj\Debug\net8.0\ref\NASASerwerAPI.dll
